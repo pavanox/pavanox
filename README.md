@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br>I'm Pavan Chakravarthi, a Software Developer who enjoys turning ideas into scalable, reliable, and production-ready applications.<br><br>⚡ Full-Stack Development — JavaScript, TypeScript & PHP<br>🧩 Backend Engineering — Node.js, NestJS & Laravel<br>🗄️ Data — PostgreSQL, MongoDB & Redis<br>☁️ DevOps — Docker, Kubernetes & Jenkins<br>🚀 Focus — Clean code, performance, automation & scalable systems<br><br>I enjoy solving complex problems, learning new technologies, and building things that actually work in the real world.
+👨‍💻 About Me<br>I'm Pavan Chakravarthi, a Software Developer who enjoys turning ideas into scalable, reliable, and production-ready applications.<br><br>⚡ Full-Stack Development — JavaScript, TypeScript & PHP<br>🧩 Backend Engineering — Node.js, NestJS & Laravel<br>🗄️ Data — PostgreSQL, MongoDB & Redis<br>☁️ DevOps — Docker, Kubernetes & Jenkins<br>🚀 Focus — Clean code, performance, automation & scalable systems<br><br>I enjoy solving complex problems, learning new technologies and building things that actually work in the real world.
 
 
 ## 🌐 Socials:
